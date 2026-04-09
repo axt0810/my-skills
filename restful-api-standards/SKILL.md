@@ -1,6 +1,6 @@
 ---
 name: restful-api-standards
-description: "基于《一汽云原生API接口规范》的RESTful API设计检查助手。审查API接口设计、URL命名、参数规范、Swagger注解、返回值规范等，帮助开发者设计规范的RESTful API。"
+description: "基于《云原生API接口规范》的RESTful API设计检查助手。审查API接口设计、URL命名、参数规范、Swagger注解、返回值规范等，帮助开发者设计规范的RESTful API。"
 metadata:
   {
     "builtin_skill_version": "1.0",
@@ -16,7 +16,7 @@ metadata:
 
 ## 描述
 
-基于《一汽云原生API接口规范》的API设计检查助手。帮助开发者：
+基于《云原生API接口规范》的API设计检查助手。帮助开发者：
 - 审查API接口设计是否符合规范
 - 检查Swagger注解使用是否正确
 - 验证请求/返回参数命名规范

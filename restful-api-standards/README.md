@@ -1,6 +1,6 @@
 # RESTful API 接口规范 Skill
 
-> 基于《一汽云原生API接口规范》的RESTful API设计检查助手
+> 基于《云原生API接口规范》的RESTful API设计检查助手
 
 ## 📖 简介
 
@@ -180,7 +180,7 @@ skills/restful-api-standards/
 
 ## 🔗 参考资料
 
-- 《一汽云原生API接口规范》
+- 《云原生API接口规范》
 - RESTful API 设计指南
 - Swagger/OpenAPI 规范
 
@@ -188,7 +188,7 @@ skills/restful-api-standards/
 
 | 版本 | 日期 | 说明 |
 |------|------|------|
-| 1.0.0 | 2024-04 | 基于一汽云原生规范整理 |
+| 1.0.0 | 2024-04 | 基于云原生规范整理 |
 
 ---
 
